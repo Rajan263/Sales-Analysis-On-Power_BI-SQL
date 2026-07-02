@@ -11,45 +11,34 @@ A complete **Business Intelligence solution** built using **Power BI, SQL, Power
 The project demonstrates the complete BI workflow—from **data extraction and transformation** to **data modeling, DAX calculations, and interactive dashboard development**.
 
 ---
-
 # Dashboard Preview
 
 ## Introduction
-
-![Introduction](Images/introduction.png)
+![Introduction](Images/Introduction.png)
 
 ## Overall KPI Dashboard
-
-![Overall Status](outputs/02-overall-stats.png)
+![Overall Status](Images/Overall%20Status.png)
 
 ## Revenue Analysis
-
-![Revenue Analysis](outputs/03-revenue-by-country-year.png)
+![Revenue Analysis](Images/Revenue%20Analysis.png)
 
 ## Growth Analysis
-
-![Growth](outputs/04-mom-qoq-growth.png)
+![Growth](Images/Growth.png)
 
 ## Sales Representative Performance
-
-![Sales Rep](outputs/05-top-sales-reps.png)
+![Sales Rep](Images/Sales%20Rep.png)
 
 ## Country Performance
-
-![Country](outputs/06-country-town-performance.png)
+![Country](Images/Country.png)
 
 ## Category Analysis
-
-![Category](outputs/07-category-kpi.png)
+![Category](Images/Category.png)
 
 ## Product Price Analysis
-
-![Price](outputs/08-price-range-kpi.png)
+![Price](Images/Price.png)
 
 ## Business Conclusion
-
-![Conclusion](outputs/09-conclusion.png)
-
+![Conclusion](Images/Conclusion.png)
 ---
 
 # Project Overview
