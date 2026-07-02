@@ -16,7 +16,7 @@ The project demonstrates the complete BI workflow—from **data extraction and t
 
 ## Introduction
 
-![Introduction](Images/01-introduction.png)
+![Introduction](Images/introduction.png)
 
 ## Overall KPI Dashboard
 
