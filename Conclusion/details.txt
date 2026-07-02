@@ -1,0 +1,18 @@
+Page 1 — Introduction
+Sets the stage with the project title and a numbered overview covering the project scope, goal, data integration (4 source types), data modeling approach (hybrid star-snowflake schema), analysis layer (DAX measures), output format (9-page report), headline results, and key insight. A navigation bar at the bottom shows all 9 page tabs.
+Page 2 — Overall Stats
+Three clean KPI cards displaying the top-line numbers: Total Revenue: 126.00M, Total Cost: 39.13M, and Gross Profit: 86.87M, each paired with a simple revenue-trend icon for visual consistency.
+Page 3 — Revenue by Country/Year
+A waterfall chart titled "Sum of Total Revenue by Year and ProductName" tracking how revenue builds from 28.7M in 2014 to 39.0M in 2017, broken down by product (Quad, VanHelen, Black Monk, Carlota, Bing, Magnum, Other). Includes Country and month-name slicers for interactive filtering.
+Page 4 — MoM and QoQ Growth
+Two trend visuals: the top line chart shows Month-over-Month Growth fluctuating between roughly -20% and +40% across 2014–2017, while the bottom scatter chart shows Quarter-over-Quarter Growth, with notable spikes around 345–346% in Q2 and Q4. A Month-Year slicer list sits on the right for drill-down.
+Page 5 — Top Sales Representatives
+A horizontal bar chart, "Gross Profit by Sales Rep Name," ranking the top performers: Ellen Woody (23.7M), John White (18.8M), Jan Novotny (9.0M), and El Bob (8.8M). Country and Year button slicers (Germany, Czech Republic, Denmark / 2014–2017) allow filtering by market and period.
+Page 6 — Country/Town-wise Performance
+A four-quadrant view comparing Germany, Czech Republic, and Denmark across Total Revenue (87M / 26M / 13M), Total Units Sold (2.8M / 0.8M / 0.4M), Total Transactions (27M / 8M / 4M), and Gross Profit (2.8M / 0.8M / 0.4M) — consistently confirming Germany's market dominance.
+Page 7 — Category/Sub-Category-wise Growth
+Four pie charts splitting performance between the Special and General categories: Total Revenue (81.21M Special vs 44.79M General), Total Units Sold (63.43% vs 36.57%), Per Unit split (roughly even at ~51%/49%), and Gross Profit (64.53% Special vs 35.47% General) — reinforcing Special as the higher-margin category.
+Page 8 — Product Price Range
+Four pie charts comparing Medium, High, and Low value tiers across Total Revenue (40.94% / 38.2% / 20.86%), Total Units Sold (45.54% / 27.26% / 27.2%), Total Cost, and Gross Profit (41.21% Medium / 38.07% High / 20.71% Low) — showing Medium Value as the best volume-margin balance.
+Page 9 — Conclusion
+A summary slide with six key takeaways covering strong overall financial performance, Germany as the core growth engine, the Special category's profit dominance, Medium Value pricing strategy, concentration of performance among top sales reps, and the technical strength of the refresh-resilient pipeline — closing with a bottom-line strategic recommendation to scale Germany's model, prioritize the Special/Medium Value segment, manage seasonality, and retain top talent.
